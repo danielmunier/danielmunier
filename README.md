@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Daniel! 👋
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/php-%23FF2D20.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://shields.io/badge/JavaScript-3178C6?logo=JavaScript&logoColor=yellow&style=for-the-badge)
 ![Python](https://shields.io/badge/Python-3178C6?logo=Python&logoColor=FFF&style=for-the-badge)
 
