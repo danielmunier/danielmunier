@@ -9,7 +9,7 @@
 - 🎂 20 yo!
 - 👾 Currently learning PHP and Laravel.
 - 🦀 Also learning Python!
-<hr>
+
 
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=danielmunier&left_color=green&right_color=red)
 
