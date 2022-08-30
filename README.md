@@ -11,5 +11,6 @@
 - 👾 Currently learning PHP and Laravel.
 - 🦀 Also learning Python!
 
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=danielmunier&left_color=green&right_color=red)
 
 
