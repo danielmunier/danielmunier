@@ -10,7 +10,7 @@
   
 ## About me:
 - 🎂 20 yo!
-- 👾 Currently learning PHP and Laravel.
+- 👾 Currently learning React.
 - 🦀 Also using Python!
 
 
