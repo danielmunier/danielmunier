@@ -1,4 +1,4 @@
-<p align="center"> <strong>Hi there, I'm Daniel! 👋</strong></p>
+<p align="center"> <strong>👋 Heyyy! I'm Daniel!</strong></p>
 <p align="center">
     <a href="https://www.linkedin.com/in/danielmuneir27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
