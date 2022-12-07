@@ -25,6 +25,6 @@
 - 🎂 20 years old!
 - 👾 Currently learning ReactJS.
 - 🦀 Also using Python!
-- 🎮Possuo uma comunidade no <a href="https://discord.gg/b73BHak6">Discord</a> na qual também venho aprendendo a criar minhas próprias <a href="https://github.com/danielmunier/pochita">aplicações</a> que auxiliam na administração
+- 🎮Possuo uma comunidade em construção no <a href="https://discord.gg/b73BHak6">Discord</a> na qual também venho aprendendo a criar minhas próprias <a href="https://github.com/danielmunier/pochita">aplicações</a> que auxiliam na administração
 
 
