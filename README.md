@@ -1,6 +1,6 @@
 <p align="center"> <strong>👋 Heyyy! I'm Daniel!</strong></p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/danielmuneir27/" target="_blank">
+    <a href="https://www.linkedin.com/in/danielmunier27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=danielmunier&style=for-the-badge"/>
