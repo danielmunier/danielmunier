@@ -22,7 +22,7 @@
 
   
 ## About me:
-- 🎂 20 years old!
+- 🎂 21 years old!
 - 👾 Currently learning ReactJS.
 - 🦀 Also using Python!
 
