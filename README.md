@@ -20,11 +20,4 @@
 </details>
 
 
-  
-## About me:
-- 🎂 21 years old!
-- 👾 Currently learning ReactJS.
-- 🦀 Also using Python!
-
-
 
