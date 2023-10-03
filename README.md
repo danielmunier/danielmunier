@@ -7,7 +7,7 @@
 </p>
 
 ### Programming Languages
-> ![JavaScript](https://shields.io/badge/JavaScript-3178C6?logo=JavaScript&logoColor=yellow&style=for-the-badge)
+> ![Typescript](https://shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=yellow&style=for-the-badge)
 ![Python](https://shields.io/badge/Python-3178C6?logo=Python&logoColor=FFF&style=for-the-badge)
 ![MySQL](https://shields.io/badge/MySQL-3175C6?logo=MySQL&logoColor=yellow&style=for-the-badge)
 </details>
