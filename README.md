@@ -8,6 +8,7 @@
 
 ### Programming Languages
 > ![Javascript](https://shields.io/badge/Javascript-3178C6?logo=Javascript&logoColor=yellow&style=for-the-badge)
+>![PHP](https://shields.io/badge/PHP-3175C6?logo=PHP&logoColor=yellow&style=for-the-badge)
 ![Python](https://shields.io/badge/Python-3178C6?logo=Python&logoColor=FFF&style=for-the-badge)
 ![MySQL](https://shields.io/badge/MySQL-3175C6?logo=MySQL&logoColor=yellow&style=for-the-badge)
 </details>
