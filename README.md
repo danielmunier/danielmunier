@@ -5,6 +5,9 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=danielmunier&style=for-the-badge"/>
 </p>
+<p>
+    Sou um estudante de Ciência da Computação residente no Rio de Janeiro com competências destacadas em desenvolvimento web, incluindo HTML, CSS, Javascript, React.js, Node.js e Python. Possuo habilidades sólidas em práticas de desenvolvimento, utilizando ferramentas como Docker, Git/Github, e Linux/WSL. Meu conhecimento também abrange banco de dados SQL e atuação como desenvolvedor back-end em projetos com Node.js Busco aplicar sua formação e experiência.
+</p>
 
 ### Programming Languages
 > ![Javascript](https://shields.io/badge/Javascript-3178C6?logo=Javascript&logoColor=yellow&style=for-the-badge)
