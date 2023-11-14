@@ -5,13 +5,29 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=danielmunier&style=for-the-badge"/>
 </p>
+
+```JavaScript
+const aboutMe = {
+  name: 'Daniel M. Munier',
+  age: '21 years old';
+  softSkills: [
+    'creativity',
+    'communication',
+    'organization'
+  ]
+};
+
+function contatcMe() {
+  return 'Linkedin: https://www.linkedin.com/in/danielmunier27/';
+}
+```
 <p>
-    🇧🇷
+   
     Sou um estudante de Ciência da Computação residente no Rio de Janeiro com competências destacadas em desenvolvimento Full Stack, incluindo tecnologias como React.js, Node.js e Python. Possuo habilidades sólidas em práticas de desenvolvimento, utilizando ferramentas como Docker, Git/Github, e Linux/WSL. Meu conhecimento também abrange banco de dados SQL e atuação como desenvolvedor back-end em projetos com Node.js. Busco aplicar sua formação e experiência.
 </p>
 
 <p>
-    🇺🇸
+   
     I am a Computer Science student based in Rio de Janeiro with prominent skills in Full Stack development, including technologies such as React.js, Node.js, and Python. I possess strong abilities in development practices, utilizing tools like Docker, Git/Github, and Linux/WSL. My knowledge also spans SQL databases, and I have experience as a back-end developer in Node.js projects. I am seeking opportunities to apply my education and expertise.
 </p>
 
