@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/danielmunier27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=danielmunier&style=for-the-badge"/>
+    
 </p>
 
 
