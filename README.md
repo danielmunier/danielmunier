@@ -9,7 +9,7 @@
 
 
 
-<p>Sou um estudante de Ciência da Computação residente no Rio de Janeiro com competências destacadas em desenvolvimento Full Stack, incluindo tecnologias como React.js, Node.js, Python, SQL, Docker, Git/Github, e Linux/WSL. Busco aplicar minha formação e experiência atuando como desenvolvedor.<p/> 
+
 
 
 
