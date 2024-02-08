@@ -1,5 +1,5 @@
-<p align="center"> <strong>👋 Heyyy! I'm Daniel!</strong></p>
-<p align="center">
+
+<p align="left">
     <a href="https://www.linkedin.com/in/danielmunier27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -15,6 +15,6 @@
 
 
    
-<p>I am a Computer Science student based in Rio de Janeiro with outstanding skills in Full Stack development, using technologies such as React.js, Node.js, Python, SQL, Docker, Git/Github, and Linux/WSL.</p>
+<p>I am a computer science student living in Rio de Janeiro with skills in FullStack development, using technologies such as React.js, Node.js, Python, SQL, Docker, Git/Github and Linux/WSL.</p>
 
 
