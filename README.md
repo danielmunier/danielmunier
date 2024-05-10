@@ -15,6 +15,6 @@
 
 
    
-<p>I am a computer science student living in Rio de Janeiro with skills in Full Stack development, using technologies such as React.js, Node.js, Python, SQL, Docker, Git/Github and Linux/WSL, and am passionate about the potential of data science and machine learning to solve real-world problems.</p>
+<p>I am a computer science student living in Rio de Janeiro with skills in Full Stack development, using technologies such as React.js, Node.js, Python, SQL, Docker, Git/Github and Linux/WSL. I'm also interested about the potential of data science and machine learning to solve real-world problems with technology.</p>
 
 
