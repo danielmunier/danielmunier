@@ -25,7 +25,7 @@ Estudante de Ciência da Computação morando no Rio de Janeiro com habilidades 
 </p>
 
 
-## Informações detalhadas
+### Informações detalhadas
 
 * **Nome**: Daniel M. Munier
 * **Idade**: 22
