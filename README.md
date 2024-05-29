@@ -1,5 +1,5 @@
 
-<a href="">EN<a/>
+<a href="https://github.com/danielmunier/danielmunier/blob/main/README-en.md">EN<a/>
 ### Sobre mim
 
 
@@ -27,12 +27,12 @@ Estudante de Ciência da Computação morando no Rio de Janeiro com habilidades 
 
 ## Informações detalhadas
 
-* **Name**: Daniel M. Munier
-* **Age**: 22
-* **Living in**: Rio de Janeiro, RJ - Brazil
+* **Nome**: Daniel M. Munier
+* **Idade**: 22
+* **Morando em**: Rio de Janeiro, RJ - Brazil
 * **Stack**: TypeScript, ReactJS, NodeJS, Git/Github
-* **Learning**: NextJS
-* **University**: UniAmérica - Ciência da Computação
+* **Aprendendo**: NextJS
+* **Universidade**: UniAmérica - Ciência da Computação
 
 
 
