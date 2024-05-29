@@ -25,7 +25,7 @@ I am a computer science student living in Rio de Janeiro with skills in web deve
 </p>
 
 
-## Detailed information
+### Detailed information
 
 * **Name**: Daniel M. Munier
 * **Age**: 22
