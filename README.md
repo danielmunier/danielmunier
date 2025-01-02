@@ -10,7 +10,12 @@
   🎮 Music • Games • Code • Art
 </pre>
 
-<br><br>
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+
 
 
 [![linkedin](https://img.shields.io/badge/website-purple)](https://www.linkedin.com/in/danielmunier27)
