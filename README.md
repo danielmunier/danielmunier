@@ -7,7 +7,6 @@
   💼 Computer science 
   💻 Fullstack developer
   📖 Software architecture
-  🎮 Music • Games • Code • Art
 </pre>
 
 
