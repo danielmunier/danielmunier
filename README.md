@@ -17,5 +17,5 @@
 
 
 
-[![linkedin](https://img.shields.io/badge/website-purple)](https://www.linkedin.com/in/danielmunier27)
-[![Static Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/danielmunier27)
+[![linkedin](https://img.shields.io/badge/website-purple)](https://www.linkedin.com/in/daniel-munier)
+[![Static Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/daniel-munier)
