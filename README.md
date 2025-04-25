@@ -19,3 +19,4 @@
 
 [![linkedin](https://img.shields.io/badge/website-purple)](https://danielmunier.com.br)
 [![Static Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/daniel-munier)
+[![Frontend Challenges](https://img.shields.io/badge/frontend--challenges-purple)](https://www.frontendmentor.io/profile/danielmunier)
