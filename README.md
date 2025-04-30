@@ -6,7 +6,6 @@
 <pre>
   💼 Computer science 
   💻 Fullstack developer
-  📖 Software architecture
 </pre>
 
 
