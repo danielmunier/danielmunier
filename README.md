@@ -10,10 +10,10 @@
 </pre>
 
 
-
+![React.js](https://img.shields.io/badge/-ReactJs-7ED2FD?logo=react&logoColor=white&style=for-the-badge&color=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+
 
 
 
