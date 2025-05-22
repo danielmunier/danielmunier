@@ -5,8 +5,8 @@
 </br>
 
 <pre>
-  💼 Computer science 
-  💻 Fullstack developer Jr.
+  💼 Computer Science 
+  💻 Fullstack Developer Jr.
 </pre>
 
 
