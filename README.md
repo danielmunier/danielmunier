@@ -6,7 +6,7 @@
 
 <pre>
   💼 Computer Science 
-  💻 Fullstack Developer Jr.
+  💻 Fullstack Developer
 </pre>
 
 
