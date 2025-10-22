@@ -18,10 +18,12 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4271bd.svg?logo=vercel&logoColor=white)](https://www.danielmunier.com.br) 
+[![Portfolio](https://img.shields.io/badge/Site-4271bd.svg?logo=vercel&logoColor=white)](https://www.danielmunier.com.br) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniel-munier)
 [![Frontend Challenges](https://img.shields.io/badge/Frontend_Mentor-446078?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/danielmunier)
-[![E-mail](https://img.shields.io/badge/Email-idanielmunier@gmail.com-pink)](mailto:idanielmunier@email.com)
+[![E-mail](https://img.shields.io/badge/idanielmunier@gmail.com-5865F2?logo=gmail&logoColor=white)](mailto:idanielmunier@gmail.com)
+
+
 
 
 
