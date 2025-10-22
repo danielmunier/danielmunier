@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/96/bd/31/96bd31d2b45fb45a378824f297c6e68e.jpg" width="25%" align="right" />
+<img src="./vertical.png" width="25%" align="right" />
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=white&width=435&center=true&vCenter=true&lines=Hi!+I'm+Daniel"/>
 </br>
