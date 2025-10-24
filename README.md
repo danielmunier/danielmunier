@@ -1,7 +1,11 @@
 <div align="center">
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Daniel" alt="Typing SVG" /></a>
+  
+</div>
   <img src="https://i.pinimg.com/736x/96/bd/31/96bd31d2b45fb45a378824f297c6e68e.jpg" width="25%" align="right" />
 
-  <h2 style="color:#58A6FF;">Hi! I'm Daniel</h2>
+
 
   <pre>
   💼 Computer Science 
