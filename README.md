@@ -4,10 +4,6 @@
 
 <img src="https://i.pinimg.com/736x/96/bd/31/96bd31d2b45fb45a378824f297c6e68e.jpg" width="25%" align="right" />
 
-<pre>
-💼 Computer Science 
-💻 Fullstack Developer
-</pre>
 
 
 
