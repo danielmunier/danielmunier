@@ -19,6 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)
+![N8N](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=2496ED&labelColor=0D1117)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)
 
 [![Site](https://img.shields.io/badge/Site-4271bd.svg?logo=vercel&logoColor=white)](https://www.danielmunier.com.br)
